@@ -1,7 +1,7 @@
 import React from "react";
 import { io } from "socket.io-client";
 
-const socketAddress = "http://192.168.0.3:3000";
+const socketAddress = "https://riddlerchat.onrender.com/";
 // const socketAddress = "http://localhost:3000";
 
 interface Room {
