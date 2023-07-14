@@ -9,8 +9,6 @@ The application is currently deployed at: https://riddlerchat.onrender.com/
 
 ## Tech Stack:
 
-- HTML
-- CSS
 - TypeScript
 - React
 - Vite
